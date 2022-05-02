@@ -1,0 +1,2 @@
+AudioPluginMsHRTF.dll
+openxr_loader.dll
